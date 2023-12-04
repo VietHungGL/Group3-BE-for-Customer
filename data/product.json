@@ -1,0 +1,18 @@
+[
+    {
+        "_id": "1",
+        "name": "Product1",
+        "description": "my Product",
+        "price": "2000",
+        "discount": "10",
+        "image": "url"
+    },
+    {
+        "_id": "2",
+        "name": "Product2",
+        "description": "my Product",
+        "price": "1000",
+        "discount": "0",
+        "image": "url"
+    }
+]
